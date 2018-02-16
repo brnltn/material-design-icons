@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20 6h-8l-2-2H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm0 12H4V8h16v10z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_folder_open_black_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_folder_open_black_24px">
+            <polygon id="Shape" points="0 0 24 0 24 24 0 24"></polygon>
+            <path d="M22,8 L6,8 C4.9,8 4,8.9 4,10 L3.0255149,19.744851 C2.41486307,19.4014753 2,18.7468335 2,18 L2.01,6 C2.01,4.9 2.9,4 4,4 L10,4 L12,6 L20,6 C21.1,6 22,6.9 22,8 Z M6.00498747,9 L21.9049672,9 C22.4572519,9 22.9049672,9.44771525 22.9049672,10 C22.9049672,10.0302251 22.9035968,10.0604347 22.9008604,10.0905357 L22.1653571,18.1810715 C22.0717064,19.2112298 21.2079771,20 20.1735707,20 L4,20 L5.00995028,9.90049629 C5.06107046,9.38929449 5.49123602,9 6.00498747,9 Z" id="folder-03" fill="#000000" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
